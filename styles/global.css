@@ -77,6 +77,11 @@ main img {
   }
 }
 
+span button:hover {
+  color: #b3b3b3;
+  transition: 0.3s;
+}
+
 @media(max-width: 768px){
   body {
     padding: 32px;
